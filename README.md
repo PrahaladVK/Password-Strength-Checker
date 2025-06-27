@@ -21,8 +21,8 @@ A privacy-focused password strength checker and passphrase generator built with 
     ```
 
 3. **Add wordlists:**
-    - Download `top-10k-passwords.txt`  
-    - Download `diceware-en.txt`  
+    - Download `top-10k-passwords.txt` (Already in the public folder)
+    - Download `diceware-en.txt`  (Already in the public folder)
     - Place both files in the `public/` folder.
 
 4. **Run locally:**
