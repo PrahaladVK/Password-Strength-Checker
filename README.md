@@ -11,7 +11,7 @@ A privacy-focused password strength checker and passphrase generator built with 
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/Escaroth07/password-strength-checker.git
+    git clone https://github.com/PrahaladVK/password-strength-checker.git
     cd password-strength-checker
     ```
 
